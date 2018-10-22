@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_audio_books">AudioBooks</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_podcasts">Podcasts</string>
+    <string name="title_favorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="rynok_square">Rynok Square</string>
+    <string name="town_hall">Town Hall</string>
+    <string name="lviv_opera_house">Lviv Opera House</string>
+    <string name="the_palace_of_counts_potockis">The Palace of Counts Potockis</string>
+    <string name="the_chapel_of_the_boim_family">The Chapel of The Boim Family</string>
+    <string name="the_dominican_church">The Dominican Church</string>
+    <string name="the_bernardine_monastery">The Bernandine Monastery</string>
+    <string name="italian_courtyard">Italian Courtyard</string>
+    <string name="the_high_castle_park">The High Castle Park</string>
+    <string name="lychakiv_cemetery">Lychakiv Cemetery</string>
+</resources>
